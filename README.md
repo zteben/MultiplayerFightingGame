@@ -24,8 +24,9 @@ As there are improvements to be made to the game, the project is still in develo
 
 ## Built using:
 * C# programming language
-* Unity Engine
-* Photon Engine
+* Unity Engine 
+* Photon Engine (for the server)
+* Photoshop (for the sprites/drawings)
 
 ## References:
 <!---italics and bold--->
