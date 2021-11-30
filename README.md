@@ -32,7 +32,7 @@ As there are improvements to be made to the game, the project is still in develo
 <!---italics and bold--->
 Part of the code used in this project was taken from [**diving_squid**](https://youtu.be/nmPukdOsYQA "diving_squid's playlist")'s videos. 
 
-## Creators of the project
+## Creators:
 
 | Name           | Github   |
 | -------------- | ---------|
