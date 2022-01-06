@@ -16,7 +16,7 @@ As there are improvements to be made to the game, the project is still in develo
 * [x] Character Movement
 * [x] Attack and Healthbar
 * [x] Win and Defeat Screen
-<!-- * [ ] Fixing lag -->
+* [ ] Fixing lag
 * [ ] Adding Characters + Character-Select Menu
 * [ ] Adding Attack-moves
 * [ ] Improving Aesthetics
